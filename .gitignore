@@ -1,2 +1,2 @@
 trained_models
-classifiers
+!classifiers/on_epoch_99.pth
